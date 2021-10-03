@@ -15,9 +15,9 @@ basic.forever(function () {
             basic.showString("X")
             basic.showLeds(`
                 . . # . .
-                . # # # .
-                # . # . #
                 . . # . .
+                # . # . #
+                . # # # .
                 . . # . .
                 `)
             basic.pause(500)
